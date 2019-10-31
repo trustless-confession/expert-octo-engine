@@ -1,5 +1,8 @@
 # Database
 
+## Use case
+* scale 
+* query in constant time
 
 ## LICENSE, Contributing and Authors
 All items in this Repo are released under the MIT License.  
